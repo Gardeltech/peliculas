@@ -48,6 +48,8 @@ $catalogo = $sentenciaSQL->fetchAll(PDO::FETCH_ASSOC);
 
             </form>
 
+            <p>Un cambio en inicio peliculas</p>
+
         </section>
 
 
